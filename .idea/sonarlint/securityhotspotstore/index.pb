@@ -11,3 +11,5 @@ O
 tests/reputation-system.test.ts,6/9/6907ff0c07493f1fa039cd71e6369818d97c7647
 O
 contracts/research-funding.clar,c/0/c0002913eea5cce3b85d9fb582307c49cb4590a7
+N
+tests/research-funding.test.ts,b/e/be2e01d83fd08e9bcae86cc8cb295d08d6a23304
